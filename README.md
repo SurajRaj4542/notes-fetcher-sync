@@ -6,6 +6,6 @@ Contents/
 	Maths
 	JS
 	C
-
+  [[home]] doesn't serve any purpose. 
 
 meow meow meow
