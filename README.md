@@ -1,4 +1,11 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+# Notes Fetcher or Sync Repo
+
+These are the files i keep to maintain my notes online. 
+Contents/
+>publish - would be divided in subjects.
+	Maths
+	JS
+	C
+
 
 meow meow meow
